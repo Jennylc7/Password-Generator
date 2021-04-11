@@ -1,2 +1,2 @@
 # Password-Generator
-A fandom password generator
+A random password generator
